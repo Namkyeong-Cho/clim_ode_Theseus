@@ -1,0 +1,9 @@
+# Ignore checkpoints and era5_data directories
+checkpoints/
+era5_data/
+
+# Ignore other temporary or system files
+*.log
+*.tmp
+.DS_Store
+.ipynb_checkpoints/
