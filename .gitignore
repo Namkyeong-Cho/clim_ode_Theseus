@@ -1,6 +1,7 @@
 # Ignore checkpoints and era5_data directories
 checkpoints/
 era5_data/
+Models/gradient_modified/ClimODE_monthly_avg_overfit_euler*
 
 # Ignore other temporary or system files
 *.log
